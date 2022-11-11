@@ -1,2 +1,2 @@
 # MinsweeperGame
-Creating a Minesweeper Game
+Simple Minesweeper Game
