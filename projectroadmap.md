@@ -1,13 +1,14 @@
-- [] Create Minesweeper Repository
+- [x] Create Minesweeper Repository
 
-- [] Create ReadMe.md
+- [x] Create ReadMe.md
 
-- [] Create projectroadmap.md
+- [x] Create projectroadmap.md
 
-- [] Complete Sprint Quiz 1
+- [x] Complete Sprint Quiz 1
 
-- [] Evaluate Minesweeper Codebase
+- [x] Evaluate Minesweeper Codebase
 
-- [] Test Codebase
+- [x] Test Codebase
 
-- [] Update projetroadmap.md
+- [x] Update projetroadmap.md
+
