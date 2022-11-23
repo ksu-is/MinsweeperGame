@@ -12,3 +12,12 @@
 
 - [x] Update projetroadmap.md
 
+SPRINT 2
+
+- [x] Begin Minesweeper Code
+
+- [x] Create tkinter UI
+
+- [x] begin formatting UI
+
+- [x] Take sprint 2 quiz
